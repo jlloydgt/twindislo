@@ -4,7 +4,7 @@ Twindislo is a python code for calculating the growth of twins within and across
 
 ## Code Examples
 
-The easiest, fastest example is running "python test.py", which is the same file was paper-scripts/1um-tau10.py. This will generate a twin in a 1um grain subjected to a shear stress of 10 MPa, using material properties for magnesium and quarter symmetry in the folder 1um/tau10/. The anticipated output to terminal is: 
+The easiest, fastest example is running "python test.py", which is the same file was paper-scripts/1um-tau10.py. This will generate a twin in a 1um grain subjected to a shear stress of 10 MPa using material properties for magnesium and quarter symmetry. Output files will be placed in the folder 1um/tau10/. The anticipated output to terminal is: 
 
 Step 1 used 836 iterations  
 Step 2 used 1599 iterations  
