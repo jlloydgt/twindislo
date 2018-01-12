@@ -44,7 +44,7 @@ All of the files needed to generate the data for figures in the manuscript are l
 
 ## Contributors
 
-Jeff Lloyd - jeffrey.t.lloyd.civ@mail.mil. The step algorithm is better explained by Richard LeSar's notes "Mesoscale Dynamics: Dislocation Dynamics examples", which you can find on his website. If you would like to contribute or collaborate on this project, please contact me and I'd be glad to give some potential directions.
+Jeff Lloyd - jeffrey.t.lloyd.civ@mail.mil. The step algorithm is better explained by Richard LeSar's notes "Mesoscale Dynamics: Dislocation Dynamics examples", which you can find on his website. 
 
 ## License
     The program twindislo is licensed under the Creative Commons Zero 1.0 Universal (CC0 1.0) Public Domain Dedication license.
