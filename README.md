@@ -6,26 +6,26 @@ Twindislo is a python code for calculating the growth of twins within and across
 
 The easiest, fastest example is running "python test.py", which is the same file was paper-scripts/1um-tau10.py. This will generate a twin in a 1um grain subjected to a shear stress of 10 MPa, using material properties for magnesium and quarter symmetry in the folder 1um/tau10/. The anticipated output to terminal is: 
 
-Step 1 used 836 iterations
-Step 2 used 1599 iterations
-Step 3 used 1513 iterations
-Step 4 used 1433 iterations
-Step 5 used 1413 iterations
+Step 1 used 836 iterations__
+Step 2 used 1599 iterations__
+Step 3 used 1513 iterations__
+Step 4 used 1433 iterations__
+Step 5 used 1413 iterations__
 Step 6 used 245 iterations
 
 One more example is the same set of simulations, but with quarter symmetry turned off, which can be evaluated by running the file "python test-nosym.py". The anticipated output to the terminal is:
 
-Step 1 part 1 used 339 iterations
-Step 1 part 2 used 132 iterations
-Step 2 part 1 used 474 iterations
-Step 2 part 2 used 330 iterations
-Step 3 part 1 used 190 iterations
-Step 3 part 2 used 279 iterations
-Step 4 part 1 used 494 iterations
-Step 4 part 2 used 335 iterations
-Step 5 part 1 used 803 iterations
-Step 5 part 2 used 422 iterations
-Step 6 part 1 used 44 iterations
+Step 1 part 1 used 339 iterations__
+Step 1 part 2 used 132 iterations__
+Step 2 part 1 used 474 iterations__
+Step 2 part 2 used 330 iterations__
+Step 3 part 1 used 190 iterations__
+Step 3 part 2 used 279 iterations__
+Step 4 part 1 used 494 iterations__
+Step 4 part 2 used 335 iterations__
+Step 5 part 1 used 803 iterations__
+Step 5 part 2 used 422 iterations__
+Step 6 part 1 used 44 iterations__
 Step 6 part 2 used 1279 iterations
 
 For some of the simulations, the code does not converge properly once annihilation occurs. At this point the user may terminate the program manually or let it run and visualize when this occurs. 
